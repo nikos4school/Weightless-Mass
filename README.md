@@ -1,6 +1,8 @@
 # Weightless-Mass
 Astro Pi 2016-2017 contest contribution of Intercultural Jr High School of Evosmos
+
 Our team had to complete 2 missions.
+
 The first mission was set by the organizers while the second one was proposed by the Weightless Mass team.
 The first mission was to detect the presence of a crew member in the Columbus module. For this mission we used the measurements of the relative humidity. An increase in this quantity is an indication that someone was entered in the module, while a decrease is an indication that someone was left the module.
 Our proposal had two parts:
